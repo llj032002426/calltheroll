@@ -14,4 +14,5 @@ Visual Studio Code
 ![image](https://github.com/llj032002426/calltheroll/blob/main/picture_result.png)
 ### 三、算法
 ![image](https://raw.githubusercontent.com/llj032002426/calltheroll/main/E_value.png)
+
 根据对评价指标E值的计算，算出五门课程有效点名次数和总请求数，其中五门课程有效点名次数为每门课程每次上课中点名到的学生缺席过该课程的一门课，视为一次有效点名；而总请求次数为五门课程总的点名次数。算法中先根据学生的绩点情况找出那5-8个缺席了该门课程80%次课的学生，导出所有学生的出勤情况，再根据出勤情况计算出E值
